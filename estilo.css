@@ -1,0 +1,61 @@
+h1{
+    font-family: monospace;
+    cursor: pointer;
+    text-align: center;
+    border: solid; color: seagreen;
+    background: silver;
+}
+
+body{
+   background: linear-gradient(72deg, #3debb9 1%, #8956f3 99%);
+}
+
+.container{
+    width: 400px;
+    margin: 0%;
+    text-decoration: green;
+}
+
+h3{
+    font-family: monospace;
+}
+
+.divisao{
+    float: left;
+}
+
+.bg_video{
+      position: fixed; 
+      right: 0; 
+      bottom: 0;
+      min-width: 100%; 
+      min-height: 100%;
+      width: auto; 
+      height: auto; 
+      z-index: -1000;
+      background: url(images/torre.jpg) no-repeat;
+      background-size: cover; 
+}
+
+
+img{
+    border-radius: 20px;
+}
+
+.logo{
+    float: right;
+    width: 1000px;
+    height: 1880px;
+    padding: 15px;
+    border-radius: 50px;
+    opacity: 70%;
+    filter: blur(5px);
+    
+}
+
+.sep{
+    width: 100px;
+    height: 5px;
+    background-color: black;
+
+}
