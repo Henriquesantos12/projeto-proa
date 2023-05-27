@@ -1,3 +1,4 @@
+
 h1{
     font-family: monospace;
     cursor: pointer;
@@ -8,6 +9,7 @@ h1{
 
 body{
    background: linear-gradient(72deg, #3debb9 1%, #8956f3 99%);
+
 }
 
 .container{
@@ -57,5 +59,11 @@ img{
     width: 100px;
     height: 5px;
     background-color: black;
+
+}
+
+
+
+@
 
 }
